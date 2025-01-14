@@ -5,12 +5,14 @@ This project is a starting point for a basic Flutter prototype application.
 CSV Data Upload and Management (Prototype)
 
 Features
+
 Upload CSV: Users can upload a CSV file, and the data will be parsed and stored in a local SQLite database.
 Data Reset: Users can reset the stored data, clearing all records from the database.
 Data Grouping: Data is grouped based on the device name and displayed in an organized and visually appealing manner.
 Interactive Table: The data is presented in a scrollable table, with dynamic styling for better readability.
 
 Technologies Used
+
 Flutter: Framework for building the cross-platform mobile application.
 SQLite: Database for storing and managing device data locally.
 CSV: File format for importing data.
